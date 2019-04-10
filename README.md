@@ -2,7 +2,7 @@
 
 ## Testing out and learning the meteor framework
 
-Its surprising how much this corsses over from the angular tutorial. I am using the built in meteor mongo db for fow
+Its surprising how much this corsses over from the angular tutorial. I am using the built in meteor mongo db for now.
 
 
 ## How to use
